@@ -67,7 +67,7 @@ mindig karakterlánc, még akkor is, ha számot billentyûzünk be:
 Egy karakterlánc már bonyolultabb objektumnak tûnik mint egy egész szám és várhatóan
 „érdekes” tulajdonságokkal bír. Nyilvánvalóan az egyik ilyen a hossza. Az objektum hosszát a
 standard len() függvénnyel kérdezhetjük meg, melynek bemeneti adata maga az objektum (a len
-az angol length szó rövidítése, ami hosszúságot jelent). Figyeljük meg az alábbi bal oldali példán,
+az angol length szó rövidítése, ami hosszúságot jelent). Figyeljük meg az alábbi példán,
 hogy a szóköz is beleszámít a hosszba:
 	>>> s= "Szia Python"
 	>>> len(s)
